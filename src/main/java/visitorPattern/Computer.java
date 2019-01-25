@@ -12,7 +12,7 @@ public class Computer implements ComputerPart{
 	 
 	   public Computer(){
 	      parts = new ComputerPart[] {new Mouse(), new Keyboard(), new Monitor()};      
-	   } 
+	   }
 	 
 	 
 	   @Override
